@@ -7,5 +7,6 @@ package com.target.retail.tgtproductdetails.exception;
 public interface ProductDetailErrorCode {
 
     Integer INVALID_REQUEST = 2001;
+    Integer PRODUCT_NOT_FOUND = 2002;
 
 }
